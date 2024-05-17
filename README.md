@@ -16,7 +16,7 @@ To understand the concept of the localstorage, how localstorage persist the data
 
 ## ScreenShot
 
-<img src="" />
+<img src="https://github.com/PrernaaPawar/web-mini-projects/commit/c0f6050cda8065ad214e34c318cd78102874e9b8#diff-f7d949746eb79c26a18546d0b2c6555cef9c663f3c53415c4e27dbfe72a02227" />
 
 Click on the `Add New`, UI looks like:
 
